@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c416beae-a278-4f36-88c8-d68aeac7bb67" name="变更" comment="master">
-      <change afterPath="$PROJECT_DIR$/src/aug/SeparationString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aug/UppercaseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aug/RegionalComparisonString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.UppercaseString">
+  <component name="RunManager" selected="应用程序.RegionalComparisonString">
     <configuration name="FindString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aug.FindString" />
       <module name="Learn" />
@@ -55,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InversionString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aug.InversionString" />
+    <configuration name="RegionalComparisonString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aug.RegionalComparisonString" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.RegionalComparisonString" />
         <item itemvalue="应用程序.UppercaseString" />
         <item itemvalue="应用程序.SeparationString" />
         <item itemvalue="应用程序.SegmentationString" />
         <item itemvalue="应用程序.FindString" />
-        <item itemvalue="应用程序.InversionString" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660115970592</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="master">
+      <created>1660449673321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660449673321</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
